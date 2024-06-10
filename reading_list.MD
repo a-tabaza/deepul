@@ -40,5 +40,5 @@
 - [Data-Efficient Image Recognition with Contrastive Predictive Coding](https://arxiv.org/abs/1905.09272)
 - [Masked Autoencoders Are Scalable Vision Learners](https://arxiv.org/abs/2111.06377)
 
-> ![NOTE]
+> [!NOTE]
 > Can't find the reference for the table on slide 49.
